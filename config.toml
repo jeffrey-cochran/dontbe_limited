@@ -1,3 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://jeffrey-cochran.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = ""
+theme = "aether"
+
+[params]
+brand = "dontbe.limited"
+description = "The website's description"
+bgimg = "img/home.jpg"
+homeimg = "img/tesselation.jpg"
