@@ -20,6 +20,6 @@ So, I'm looking forward to it, and in the meantime, I'm doing all sorts of nerd 
 
 I've also been checking out [Matt Mercer's videos](https://www.youtube.com/playlist?list=PL7atuZxmT9570U87GhK_20NcbxM43vkom). He's best known for his role as dungeon master on [Critical Role](https://www.youtube.com/playlist?list=PL7atuZxmT955Cw-fFS-_3IQvaCpQgDzWA), a D&D livestream that has received an overwhelmingly positive response from a broad audience, but his instructional content is also great.
 
-They both raise some interesting points, and I may post some of my own thoughts the topics they discuss in the future. For now, enjoy my very first player handout (CAUTION: it has some crude language):
+They both raise some interesting points, and I may post some of my own thoughts on the topics they discuss in the future. For now, enjoy my very first player handout (CAUTION: it has some crude language):
 
 <iframe src="https://drive.google.com/file/d/1hgp5gWK0R2wC5A1fc2rxIaxqmI-RqYpw/preview" width="100%" height="480"></iframe>

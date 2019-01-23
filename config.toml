@@ -2,6 +2,7 @@ baseURL = "https://jeffrey-cochran.github.io/"
 languageCode = "en-us"
 title = ""
 theme = "aether"
+googleAnalytics = "UA-132562977-1"
 
 [params]
 brand = "dontbe.limited"

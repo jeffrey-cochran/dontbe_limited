@@ -14,7 +14,7 @@ Howdy. I'm Jeff Cochran. I'm a PhD student studying computational mathematics at
 
 I have a broad spectrum of technical interests, not all of which are related to my yet-to-be-determined thesis. If you're curious about computer vision, machine learning, image processing, numerical linear algebra, differential equations, computational geometry, inverse problems, et cetera... maybe you'll find some of this stuff interesting.
 
-### NOTE: In order to touch on  a lot of technical topics quickly, I'll be writing in a sort of stream of consciousness. It's not going to win a Pulitzer, but it'll be much easier for my writing to keep pace with my reading and research.
+### NOTE: In order to touch on  a lot of technical topics quickly, I'll be writing in a stream of consciousness. It's not going to win a Pulitzer, but it'll be much easier for my writing to keep pace with my reading and research.
 
 I will also use this blog to keep track of events in my personal life and, more generally, just nerd out. I'll do my best to categorize entries so that you can zoom in on just technical stuff, if that's what you're interested in, by clicking on the hamburger menu in the top-right corner.
 
