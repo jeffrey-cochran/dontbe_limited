@@ -19,7 +19,7 @@ The story follows four men that will one day become legends:
  - **Peren Siannodel**, a drow Rogue cast out from the Underdark
  - **Steven Austin**, a Paladin of Tyr setting out from Neverwinter 
 
-We meet the group just south of Neverwinter, where all four have been recruited to accompany a caravan to Phandalin. The caravan's owner, Fallon, needs guards to protect his cargo and his son, Jonathan, who travels with caravan. Ostensibly, each is in it for ten gold pieces. Truthfully, all but one has a secret agenda: The Deck of Many Things, the most powerful magical artifact known to mortal races. This common thread weaves the fates of four into a single pattern.
+We meet the group just south of Neverwinter, where all four have been recruited to accompany a caravan to Phandalin. The caravan's owner, Fallon, needs guards to protect his cargo and his son, Jonathan, who travels with the caravan. Ostensibly, each is in it for ten gold pieces. Truthfully, all but one has a secret agenda: The Deck of Many Things, the most powerful magical artifact known to mortal races. This common thread weaves the fates of four into a single pattern.
 
 Bryn Qurocbasin must retrieve the Deck of Many Things. Bryn believes he is the rightful owner of The Deck, which was stolen from his father, Kedrin Qurocbasin, a hundred years before. Whether it *belonged* to his father is a different matter. Nonetheless, when Bryn hears rumors that the Deck has appeared in Phandalin, he joins the first group headed in that direction.
 
