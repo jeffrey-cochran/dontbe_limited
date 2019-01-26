@@ -14,7 +14,7 @@ Yo! Since cross-stitching is one of the hobbies that has inadvertently gotten me
 
 To kick it off, do note the wicked Poliwhirl embroidery I did for the lead-in photo. I've been doing a series of Pokemon-themed hats for Christmas gifts this (last?) year. I finished my first one in early December, decided it looked !@#$ing dope, and committed myself making all my friends one.
 
-It turns out that was a little ambitious. They take forever, and I'm still not done halfway through January. I am, however, making progress. I just finished this Magneton on a Lids' flex-fit cap for my buddy Denny:
+It turns out that was a little ambitious. They take forever, and I'm still not done halfway through January. I am, however, making progress. I just finished this Magneton on a Lids' flex-fit cap for my buddy:
 
 ![A wild Magneton appeared](/img/magneton_stitch.jpg "A wild Magneton appeared")
 
