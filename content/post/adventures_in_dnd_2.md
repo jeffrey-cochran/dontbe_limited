@@ -1,6 +1,6 @@
 ---
 title: "Adventures in DMing II"
-date: 2019-01-22T22:32:20-05:00
+date: 2019-01-26T22:32:20-05:00
 description: "The first campaign diary."
 categories: ["Adventures-in-DMing"]
 featuredImage: "img/dnd.png"
