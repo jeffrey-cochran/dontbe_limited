@@ -125,7 +125,7 @@ He pauses, looking in the direction of Steven's corpse.
 
 He pauses again. No one acknowledges that he is speaking.
 
-"Johnny Crust, I can't believe he jumped in their like that. I suppose he really *was* just a decent man trying to do right." 
+"Johnny Crust, I can't believe he jumped in there like that. I suppose he really *was* just a decent man trying to do right." 
 
 With these words, Bryn snatches his pouch off the ground. Noticing an unfamiliar lightness to the pouch, Bryn opens it to discover a single card. He holds the card in the light now pouring in from where the ceiling once arched. As quickly as his eyes can focus on its image, the card is gone. 
 
